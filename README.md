@@ -1,4 +1,4 @@
-# 🚖 Cabify - Online Cab Booking App
+# 🚖 Cabify - Online Cab Booking Plateform
 
 An online cab booking application built with the MERN Stack. Users can book cabs in real-time, track rides, view booking history, and manage profiles — all with a clean and responsive UI.
 
